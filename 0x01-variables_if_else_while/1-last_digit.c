@@ -3,10 +3,11 @@
 #include <stdio.h>
 
 /**
- * main = main function
+ * main - main function
  * Descritpion: Print last digit of number
  * Return: Always 0 if (success)
  */
+
 int main(void)
 {
 	int n;
