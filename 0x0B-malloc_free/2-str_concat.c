@@ -52,5 +52,6 @@ char *str_concat(char *s1, char *s2)
 		*(mlc + i) = *(s2 + j);
 		i++;
 	}
+
 	return (mlc);
 }
